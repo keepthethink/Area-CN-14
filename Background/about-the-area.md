@@ -32,7 +32,7 @@ Area维护着一个关于异常所需，通常称呼为“RDs”的特殊收容�
 异常有多种形式，或许是一件物品，一个实体，一个地点或一种独立的现象。这些异常被分类为一项特定的[项目分级](http://area-cn-14.wikidot.com/object-classes)并收容于众多[设施](http://area-cn-14.wikidot.com/secure-facilities-locations)中或在迁移被认为不可行的情况下就地收容。
 
 ### 运营安保
-Area以最高度的机密性运作。 所有人员必须遵守[安保权限等级](http://area-cn-14.wikidot.com/security-clearance-levels)以及按需知密与信息划分。被发现违反安全协议的人员将被识别，拘留，并受到纪律处分。
+Area以最高度的机密性运作。 所有人员必须遵守[安保权限等级](https://github.com/keepthethink/Area-CN-14/blob/master/Background/security-clearance-levels.md)以及按需知密与信息划分。被发现违反安全协议的人员将被识别，拘留，并受到纪律处分。
 
 ### 敌对机构及相关组织
 Area并不是唯一一个拥有交互或使用异常的知识及能力的组织。一切其它组织的目的都是不可探明的，因此Area应当时刻保持隐蔽。Area人员被指示随时带着怀疑对待来自这些组织的个体，并在未经领导层明确同意下与这些组织合作将会被处决或其他纪律处分。
