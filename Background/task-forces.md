@@ -18,7 +18,7 @@
 **特遣队任务：** 特遣队参宿-α-烛九阴擅长处理时间异常。这包括有效清理时间悖论以及时间线收束。特遣队由五个经过严格训练的RD-045生成物以及两个现实扭曲者组成。
 
 **协助收容的项目：**
-[RD-002](http://area-cn-14.wikidot.com/rd-002)
+[RD-002](https://github.com/keepthethink/Area-CN-14/blob/master/RD%20Series/RD-002.md)
 
 行动报告：
 
@@ -27,7 +27,7 @@
 **特遣队任务：** 特遣队参宿-γ-白民负责协助参宿-α-烛九阴。 **参宿-α-烛九阴的一切行动必须与参宿-γ-白民共同进行，这是议会一致通过的指令。** 特遣队由一组现实扭曲者组成。该特遣队致力于追踪“乘黄”（“曾用名：延达罗斯的猎犬”）并阻止乘黄的行动。所有与该特遣队相关的信息都被编级为4级。
 
 **协助收容的项目：**
-[RD-002](http://area-cn-14.wikidot.com/rd-002)
+[RD-002](https://github.com/keepthethink/Area-CN-14/blob/master/RD%20Series/RD-002.md)
 
 行动报告：
 [乘黄](http://area-cn-14.wikidot.com/rd-002-chenghuang)
@@ -55,7 +55,7 @@
 **特遣队任务：** 特遣队轸宿-α-狙如负责与政府机构以及其他异常组织进行交涉，同时肩负避免政府发现area的职责。此外，轸宿-α-狙如负责避免因RD异常项目引起的战争。轸宿-α-狙如由经过严格训练的特工组成。
 
 **协助收容的项目：**
-[RD-002](http://area-cn-14.wikidot.com/rd-002)
+[RD-002](https://github.com/keepthethink/Area-CN-14/blob/master/RD%20Series/RD-002.md)
 
 **行动报告：**
 
