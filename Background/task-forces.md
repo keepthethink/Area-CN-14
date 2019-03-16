@@ -30,7 +30,7 @@
 [RD-002](https://github.com/keepthethink/Area-CN-14/blob/master/RD%20Series/RD-002.md)
 
 行动报告：
-[乘黄](http://area-cn-14.wikidot.com/rd-002-chenghuang)
+[乘黄](https://github.com/keepthethink/Area-CN-14/blob/master/RD%20Series/RD-002-chenghuang.md)
 
 ## 昴宿-α-帝江
 ![](https://i.loli.net/2018/08/20/5b7a9132a8ef4.jpg)
