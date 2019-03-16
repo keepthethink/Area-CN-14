@@ -29,7 +29,7 @@ Area的隐蔽及秘密行动以追求我们的主要任务为目的于全球范�
 ### 特殊收容措施
 Area维护着一个关于异常所需，通常称呼为“RDs”的特殊收容措施的信息的庞大数据库。Area主数据库装有异常的摘要以及在收容失效或其他事件中作维持或重新建立安全收容的紧急措施。
 
-异常有多种形式，或许是一件物品，一个实体，一个地点或一种独立的现象。这些异常被分类为一项特定的[项目分级](http://area-cn-14.wikidot.com/object-classes)并收容于众多[设施](http://area-cn-14.wikidot.com/secure-facilities-locations)中或在迁移被认为不可行的情况下就地收容。
+异常有多种形式，或许是一件物品，一个实体，一个地点或一种独立的现象。这些异常被分类为一项特定的[项目分级](https://github.com/keepthethink/Area-CN-14/blob/master/Background/object-classes.md)并收容于众多设施中或在迁移被认为不可行的情况下就地收容。
 
 ### 运营安保
 Area以最高度的机密性运作。 所有人员必须遵守[安保权限等级](https://github.com/keepthethink/Area-CN-14/blob/master/Background/security-clearance-levels.md)以及按需知密与信息划分。被发现违反安全协议的人员将被识别，拘留，并受到纪律处分。
